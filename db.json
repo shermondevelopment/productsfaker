@@ -1,0 +1,1230 @@
+{
+  "products": [
+    {
+      "id": 1391,
+      "title": "A",
+      "slug": "a",
+      "figure": "https://doctorpe.vteximg.com.br/arquivos/ids/155671-1000-1000/sandalia-anabela-linhaca-940003-3.jpg?v=637465959314230000",
+      "should": "fila",
+      "price": 712,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "aqua",
+        "bisque"
+      ],
+      "star": 1,
+      "category": "calcados",
+      "sub_cat": "sandalias",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 12831,
+      "title": "B",
+      "slug": "b",
+      "figure": "https://static.zattini.com.br/produtos/sandalia-anabela-studio-ana-paula-espadrille-tira-feminina/06/MIK-0042-006/MIK-0042-006_zoom1.jpg?ts=1565100354",
+      "should": "adidas",
+      "price": 121,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "coral",
+        "azure"
+      ],
+      "star": 3,
+      "category": "calcados",
+      "sub_cat": "sandalias",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 1831,
+      "title": "C",
+      "slug": "c",
+      "figure": "https://static.zattini.com.br/produtos/sandalia-anabela-studio-ana-paula-espadrille-tira-feminina/06/MIK-0042-006/MIK-0042-006_zoom1.jpg?ts=1565100354",
+      "should": "adidas",
+      "price": 121,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "blueviolet",
+        "lightcoral"
+      ],
+      "star": 3,
+      "category": "calcados",
+      "sub_cat": "sandalias",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 2324,
+      "title": "A",
+      "slug": "a",
+      "figure": "/dist/img/shop/catalog/01.jpg",
+      "should": "adidas",
+      "price": 203.23,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "crismon",
+        "floralwhite"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "botas",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 2133,
+      "title": "B",
+      "slug": "b",
+      "figure": "/dist/img/shop/catalog/01.jpg",
+      "should": "fila",
+      "price": 203,
+      "size": [
+        "23",
+        "70",
+        "46"
+      ],
+      "colors": [
+        "indianred",
+        "ivory"
+      ],
+      "star": 5,
+      "category": "calcados",
+      "sub_cat": "tenis",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThDjSXVRDjyEEf-1UG8KckZs_rCmFfGf60Mg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAGy9m-tjOAdy0-ucsCZtUSdz4UqvNAZZ2Q&usqp=CAU"
+      ]
+    },
+    {
+      "id": 1283,
+      "title": "C",
+      "slug": "c",
+      "figure": "/dist/img/shop/catalog/02.jpg",
+      "should": "Banana Republic",
+      "price": 253.59,
+      "star": 3,
+      "category": "blusa",
+      "sub_cat": "moletom",
+      "size": [
+        "P",
+        "M",
+        "G",
+        "PP"
+      ],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(95)/seltenbr/catalog/moletom-masculino/moletom-branco-6.jpg"
+      ]
+    },
+    {
+      "id": 3405,
+      "title": "D",
+      "slug": "d",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "should": "microsoft",
+      "price": 213,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "fones-de-ouvido",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 1231,
+      "title": "E",
+      "slug": "e",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "should": "microsoft",
+      "price": 182,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "fones-de-ouvido",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 3111,
+      "title": "F",
+      "slug": "f",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "should": "microsoft",
+      "price": 172,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "fones-de-ouvido",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 11223,
+      "title": "G",
+      "slug": "g",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "should": "microsoft",
+      "price": 88,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "fones-de-ouvido",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 123212,
+      "title": "H",
+      "slug": "h",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "should": "microsoft",
+      "price": 812,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "fones-de-ouvido",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 19183,
+      "title": "A",
+      "slug": "a",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/iphone-7-plus-3gb-prata-tela-retina-hd-5-5-quot-3d-touch-camera-dupla-de-1mp-apple.png",
+      "should": "apple",
+      "price": 912,
+      "star": 2,
+      "category": "aparelhos",
+      "sub_cat": "smartphone-e-tabletes",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 372882,
+      "title": "A",
+      "slug": "a",
+      "figure": "https://static.vecteezy.com/ti/fotos-gratis/p1/2235054-saco-com-fundo-branco-gr%C3%A1tis-foto.jpg",
+      "should": "gucci",
+      "price": 800,
+      "star": 4,
+      "category": "acessorios",
+      "sub_cat": "bolsas",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 1232,
+      "title": "B",
+      "slug": "b",
+      "figure": "https://img.myloview.com.br/posters/bolsa-da-mulher-isolado-no-fundo-branco-400-77439.jpg",
+      "should": "gucci",
+      "price": 900,
+      "star": 5,
+      "category": "acessorios",
+      "sub_cat": "bolsas",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 2831,
+      "title": "C",
+      "slug": "c",
+      "figure": "https://thumbs.dreamstime.com/b/bolsa-branca-com-os-punhos-do-preto-isolados-no-fundo-branco-49400424.jpg",
+      "should": "gucci",
+      "price": 928,
+      "star": 5,
+      "category": "acessorios",
+      "sub_cat": "bolsas",
+      "size": [],
+      "colors": [
+        "orange",
+        "black",
+        "gold",
+        "tomato"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 2139,
+      "title": "B",
+      "slug": "b",
+      "figure": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwaS1K4d9I7X34x3a3JQ7YiRhuXnZy9L4rHM0Xv6q5mL7_rCXSqiEwiC4-nKfhqBMz6D4&usqp=CAU",
+      "should": "apple",
+      "price": 1000,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "smartphone-e-tabletes",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 2322,
+      "title": "A",
+      "slug": "a",
+      "figure": "https://photos.enjoei.com.br/public/1200x1200/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy8xMTYzNTExMC8wYmRhZGM2Y2ViMGVkOTllYjI1NjEzZWVlNTA5ZTk1Yy5qcGc",
+      "should": "rayban",
+      "price": 232,
+      "star": 2,
+      "category": "acessorios",
+      "sub_cat": "oculos-escuros",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://a-static.mlcdn.com.br/1500x1500/oculos-armacao-leitura-grau-350-vinho-e-branco-interglasses/worldstoreimports/4781p/a428309cc681e730f43043f5790225a6.jpg",
+        "https://cdn.pixabay.com/photo/2016/10/11/12/51/sunglasses-1731505_960_720.jpg",
+        "https://paciello.vteximg.com.br/arquivos/ids/155488-1000-1000/Rio-4883-fundo-branco.jpg?v=637526505856470000"
+      ]
+    },
+    {
+      "id": 9212,
+      "title": "B",
+      "slug": "b",
+      "figure": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/o/c/oculos-escuro-feminino-ibis_466592.jpg",
+      "should": "rayban",
+      "price": 761,
+      "star": 5,
+      "category": "acessorios",
+      "sub_cat": "oculos-escuros",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 1312,
+      "title": "C",
+      "slug": "c",
+      "figure": "https://m.media-amazon.com/images/I/71rt7+FZR-L._AC_SX522_.jpg",
+      "should": "rayban",
+      "price": 761,
+      "star": 1,
+      "category": "acessorios",
+      "sub_cat": "oculos-escuros",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 21372,
+      "title": "A",
+      "slug": "a",
+      "figure": "https://a-static.mlcdn.com.br/1500x1500/relogio-masculino-yazole-271-preto-fundo-branco/horyums/6948117530/bbb80696eef25c602c58fff1c6bbe0bd.jpg",
+      "should": "rolex",
+      "price": 300,
+      "star": 3,
+      "category": "acessorios",
+      "sub_cat": "relogios",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 21372,
+      "title": "B",
+      "slug": "b",
+      "figure": "https://content.rolex.com/dam/2021/upright-bba/m126719blro-0002.png?impolicy=v6-upright",
+      "should": "rolex",
+      "price": 736,
+      "star": 3,
+      "category": "acessorios",
+      "sub_cat": "relogios",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 27120,
+      "title": "C",
+      "slug": "c",
+      "figure": "https://content.rolex.com/dam/2021/upright-bba/m81409rbr-0001.png?impolicy=v6-upright",
+      "should": "rolex",
+      "price": 900,
+      "star": 5,
+      "category": "acessorios",
+      "sub_cat": "relogios",
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 81313,
+      "title": "H",
+      "slug": "h",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "should": "microsoft",
+      "price": 912,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "fones-de-ouvido",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 2213,
+      "title": "I",
+      "slug": "i",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "should": "microsoft",
+      "price": 999,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "fones-de-ouvido",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 19212,
+      "title": "J",
+      "slug": "j",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "should": "microsoft",
+      "price": 1000,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "fones-de-ouvido",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 1231,
+      "title": "K",
+      "slug": "k",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "should": "microsoft",
+      "price": 123,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "fones-de-ouvido",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 112831,
+      "title": "L",
+      "slug": "l",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "should": "microsoft",
+      "price": 381,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "fones-de-ouvido",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 1010,
+      "title": "M",
+      "slug": "m",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "should": "microsoft",
+      "price": 491,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "fones-de-ouvido",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 1381,
+      "title": "N",
+      "slug": "n",
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "should": "microsoft",
+      "price": 127,
+      "star": 3,
+      "category": "aparelhos",
+      "sub_cat": "fones-de-ouvido",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ],
+      "gallery": [
+        "https://th.bing.com/th/id/R.c9ae5428cd3308134dc32143ad213c83?rik=H4EAQzYgx4LObg&riu=http%3a%2f%2fwww.casasbahia-imagens.com.br%2faudio%2fFonesdeOuvido%2f7292490%2f319611565%2fFone-de-Ouvido-Dotcell-DC-F260-Rosa-7292490.jpg&ehk=rsuJGuaft1no0z3m7zb8d4fr%2fU%2f2VDGuJwXN%2btl8dyo%3d&risl=&pid=ImgRaw&r=0",
+        "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png"
+      ]
+    },
+    {
+      "id": 29221,
+      "title": "A",
+      "slug": "a",
+      "figure": "https://cdn.awsli.com.br/400x400/1709/1709310/produto/69638619/tenis-nike-running-2-69288fba.jpg",
+      "should": "adidas",
+      "price": 128,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "babyblue",
+        "coral",
+        "peach"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "botas",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 6767,
+      "title": "B",
+      "slug": "b",
+      "figure": "https://tfcjho.vteximg.com.br/arquivos/ids/158899-300-400/Alex---Fotos-Ecommerce-3-.png?v=637528901937600000",
+      "should": "adidas",
+      "price": 534,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "salmon",
+        "skyblue"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "botas",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 3482,
+      "title": "C",
+      "slug": "c",
+      "figure": "https://rmilet.vteximg.com.br/arquivos/ids/6604434-593-593/CALCADOS-ECOMMERCE-COMFORT-2112-213-COM-BRANCO-TOFU-Tamanho--34---Cor--BRANCO-TOFU-0.jpg?v=637626588957870000",
+      "should": "adidas",
+      "price": 123,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "mocha",
+        "darklilac"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "botas",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 13822,
+      "title": "D",
+      "slug": "d",
+      "figure": "https://cd.shoppub.com.br/mgsports/media/cache/45/25/4525e022a19c4266e476314f2bd7db38.jpg",
+      "should": "adidas",
+      "price": 343,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "papaya",
+        "saffron",
+        "teal"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "botas",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 19312,
+      "title": "E",
+      "slug": "e",
+      "figure": "https://www.extra-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1844315861",
+      "should": "adidas",
+      "price": 812,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "mediumaquamarine",
+        "cadetblue",
+        "palegreen"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "botas",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 31823,
+      "title": "F",
+      "slug": "f",
+      "figure": "https://s3.sa-east-1.amazonaws.com/tamppa-ecommerce/files/6B194AD4-FE02-4101-AB8D-E6D340FDB215/products/09125319-D302-4021-BA7F-F66AEECD9759/photos/main-99597027-2724-4EC8-BBB9-DDDBFA0B2095-image.jpg",
+      "should": "adidas",
+      "price": 1000,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "goldenrod",
+        "peru",
+        "sienna"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "botas",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 12341,
+      "title": "G",
+      "slug": "g",
+      "figure": "https://images-americanas.b2w.io/produtos/01/00/img/2490116/6/2490116697_1GG.jpg",
+      "should": "adidas",
+      "price": 213,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "chocolate",
+        "wheat",
+        "tan"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "botas",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 2732,
+      "title": "H",
+      "slug": "h",
+      "figure": "https://cdn-3.expansion.mx/dims4/default/072fee7/2147483647/strip/true/crop/1600x900+0+0/resize/1800x1013!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F39%2F59%2F23ebe55243be94524340dcc67b14%2Fnikenews-featuredfootwear-nikesb-dunklowgratefuldead-7-hd-1600.jpg",
+      "should": "adidas",
+      "price": 50,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "indigo",
+        "plum",
+        "linen"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "botas",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 1232,
+      "slug": "e",
+      "title": "e",
+      "figure": "https://sapatinhodeluxo.vteximg.com.br/arquivos/ids/167337-1600-1600/1370.03_4-Tenis-Napa-Naturale-Branco-Casual-0.jpg?v=637359642520900000",
+      "should": "adidas",
+      "price": 800,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "bisque",
+        "papayawhip",
+        "maccasin"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "tenis",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 4322,
+      "title": "J",
+      "slug": "j",
+      "figure": "https://storage.googleapis.com/facily-images/nike-air-max.jpg",
+      "should": "adidas",
+      "price": 623,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "lavender",
+        "honeydew",
+        "mintcream"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "tenis",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 21233,
+      "title": "K",
+      "slug": "k",
+      "figure": "https://lojasgang.vteximg.com.br/arquivos/ids/286944-560-798/35020139-tenis-nike-charge-gang-01.jpg?v=637408019833500000",
+      "should": "adidas",
+      "price": 232,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "oldlice",
+        "peachpuff",
+        "MistyRose"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "tenis",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 7418,
+      "title": "L",
+      "slug": "l",
+      "figure": "https://storage.googleapis.com/facily-images/b875c810-tenis4.png",
+      "should": "adidas",
+      "price": 300,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "oldlice",
+        "peachpuff",
+        "MistyRose"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "tenis",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 12311,
+      "title": "M",
+      "slug": "m",
+      "figure": "https://images-americanas.b2w.io/produtos/01/00/img/50937/6/50937668_1GG.jpg",
+      "should": "adidas",
+      "price": 500,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "oldlice",
+        "peachpuff",
+        "MistyRose"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "tenis",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    },
+    {
+      "id": 1313,
+      "title": "N",
+      "slug": "n",
+      "figure": "https://tfcjho.vteximg.com.br/arquivos/ids/159502-300-400/Fotos-Ecommerce.png?v=637540271939970000",
+      "should": "adidas",
+      "price": 431,
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "oldlice",
+        "peachpuff",
+        "MistyRose"
+      ],
+      "star": 4,
+      "category": "calcados",
+      "sub_cat": "tenis",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"
+      ]
+    }
+  ],
+  "favorites": [
+    {
+      "id": 2831,
+      "productsId": 2831,
+      "idUser": "123",
+      "title": "C",
+      "slug": "c",
+      "should": "gucci",
+      "price": 928,
+      "figure": "https://thumbs.dreamstime.com/b/bolsa-branca-com-os-punhos-do-preto-isolados-no-fundo-branco-49400424.jpg",
+      "size": [],
+      "colors": [
+        "orange",
+        "black",
+        "gold",
+        "tomato"
+      ]
+    },
+    {
+      "id": 2324,
+      "productsId": 2324,
+      "idUser": "123",
+      "title": "A",
+      "slug": "a",
+      "should": "adidas",
+      "price": 203.23,
+      "figure": "/dist/img/shop/catalog/01.jpg",
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "crismon",
+        "floralwhite"
+      ]
+    },
+    {
+      "id": 12831,
+      "productsId": 12831,
+      "idUser": "123",
+      "title": "B",
+      "slug": "b",
+      "should": "adidas",
+      "price": 121,
+      "figure": "https://static.zattini.com.br/produtos/sandalia-anabela-studio-ana-paula-espadrille-tira-feminina/06/MIK-0042-006/MIK-0042-006_zoom1.jpg?ts=1565100354",
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "coral",
+        "azure"
+      ]
+    },
+    {
+      "id": 1831,
+      "productsId": 1831,
+      "idUser": "123",
+      "title": "C",
+      "slug": "c",
+      "should": "adidas",
+      "price": 121,
+      "figure": "https://static.zattini.com.br/produtos/sandalia-anabela-studio-ana-paula-espadrille-tira-feminina/06/MIK-0042-006/MIK-0042-006_zoom1.jpg?ts=1565100354",
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "blueviolet",
+        "lightcoral"
+      ]
+    },
+    {
+      "id": 29221,
+      "productsId": 29221,
+      "idUser": "123",
+      "title": "A",
+      "slug": "a",
+      "should": "adidas",
+      "price": 128,
+      "figure": "https://cdn.awsli.com.br/400x400/1709/1709310/produto/69638619/tenis-nike-running-2-69288fba.jpg",
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "babyblue",
+        "coral",
+        "peach"
+      ]
+    },
+    {
+      "id": 3482,
+      "productsId": 3482,
+      "idUser": "123",
+      "title": "C",
+      "slug": "c",
+      "should": "adidas",
+      "price": 123,
+      "figure": "https://rmilet.vteximg.com.br/arquivos/ids/6604434-593-593/CALCADOS-ECOMMERCE-COMFORT-2112-213-COM-BRANCO-TOFU-Tamanho--34---Cor--BRANCO-TOFU-0.jpg?v=637626588957870000",
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "mocha",
+        "darklilac"
+      ]
+    },
+    {
+      "id": 1231,
+      "productsId": 1231,
+      "idUser": "123",
+      "title": "E",
+      "slug": "e",
+      "should": "microsoft",
+      "price": 182,
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ]
+    },
+    {
+      "id": 3111,
+      "productsId": 3111,
+      "idUser": "123",
+      "title": "F",
+      "slug": "f",
+      "should": "microsoft",
+      "price": 172,
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ]
+    },
+    {
+      "id": 3405,
+      "productsId": 3405,
+      "idUser": "123",
+      "title": "D",
+      "slug": "d",
+      "should": "microsoft",
+      "price": 213,
+      "figure": "https://opiniaobomvaleapena.com.br/imagens/fone-de-ouvido-multilaser-monster-headphone-vermelho.png",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ]
+    },
+    {
+      "id": 2732,
+      "productsId": 2732,
+      "idUser": "123",
+      "title": "H",
+      "slug": "h",
+      "should": "adidas",
+      "price": 50,
+      "figure": "https://cdn-3.expansion.mx/dims4/default/072fee7/2147483647/strip/true/crop/1600x900+0+0/resize/1800x1013!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F39%2F59%2F23ebe55243be94524340dcc67b14%2Fnikenews-featuredfootwear-nikesb-dunklowgratefuldead-7-hd-1600.jpg",
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "indigo",
+        "plum",
+        "linen"
+      ]
+    },
+    {
+      "id": 6767,
+      "productsId": 6767,
+      "idUser": "123",
+      "title": "B",
+      "slug": "b",
+      "should": "adidas",
+      "price": 534,
+      "figure": "https://tfcjho.vteximg.com.br/arquivos/ids/158899-300-400/Alex---Fotos-Ecommerce-3-.png?v=637528901937600000",
+      "size": [
+        "34",
+        "40",
+        "50"
+      ],
+      "colors": [
+        "salmon",
+        "skyblue"
+      ]
+    },
+    {
+      "id": 21372,
+      "productsId": 21372,
+      "idUser": "123",
+      "title": "B",
+      "slug": "b",
+      "should": "rolex",
+      "price": 736,
+      "figure": "https://content.rolex.com/dam/2021/upright-bba/m126719blro-0002.png?impolicy=v6-upright",
+      "size": [],
+      "colors": [
+        "purple",
+        "lightgreen",
+        "yellow",
+        "pink"
+      ]
+    },
+    {
+      "id": 27120,
+      "productsId": 27120,
+      "idUser": "123",
+      "title": "C",
+      "slug": "c",
+      "should": "rolex",
+      "price": 900,
+      "figure": "https://content.rolex.com/dam/2021/upright-bba/m81409rbr-0001.png?impolicy=v6-upright"
+    }
+  ]
+}
